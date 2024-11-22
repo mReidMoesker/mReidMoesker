@@ -10,4 +10,8 @@ I have worked in multiple fields, including the food industry, warehouse, and la
 <hr>
 <h2>My skills</h2>
 <hr>
-<img src="/assets/img/javascript-tag.png"> <img src="/assets/img/html-tag.png"> <img src="/assets/img/css-tag.png">
+<p float="left">
+  <img src="/assets/img/javascript-tag.png"> 
+  <img src="/assets/img/html-tag.png"> 
+  <img src="/assets/img/css-tag.png">
+</p>
