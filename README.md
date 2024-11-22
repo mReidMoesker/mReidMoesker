@@ -1,4 +1,4 @@
-<img src="main/assets/img/git-banner.png">
+<img src="/assets/img/git-banner.png">
 <hr>
 <h2>About me</h2>
 <hr>
