@@ -12,6 +12,6 @@ I have worked in multiple fields, including the food industry, warehouse, and la
   <img src="/assets/img/javascript-tag.png"> 
   <img src="/assets/img/html-tag.png"> 
   <img src="/assets/img/css-tag.png">
-  <img src="/assets/img/code_c#.png">
+  <img src="/assets/img/Code_c#.png">
 </p>
 <hr>
