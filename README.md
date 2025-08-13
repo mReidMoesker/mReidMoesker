@@ -12,7 +12,7 @@ I have worked in multiple fields, including the food industry, warehouse, and la
   <img src="/assets/img/javascript-tag.png"> 
   <img src="/assets/img/Code_cs.png">
   <img src="/assets/img/code-sql.png">
-  <img src="/assets/img/Code-java.png">
+  <img src="/assets/img/Code_java.png">
   <br>
   <img src="/assets/img/html-tag.png"> 
   <img src="/assets/img/css-tag.png">
