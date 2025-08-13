@@ -18,3 +18,4 @@ I have worked in multiple fields, including the food industry, warehouse, and la
   <img src="/assets/img/css-tag.png">
 </p>
 <hr>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mReidMoesker&layout=compact&theme=radical)
